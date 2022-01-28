@@ -1,0 +1,33 @@
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.exe
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.deps.json
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.runtimeconfig.json
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.runtimeconfig.dev.json
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\ref\Plex work 3.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Plex work 3.pdb
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Spire.License.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Spire.Pdf.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\Spire.XLS.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.csproj.AssemblyReference.cache
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex_work_3.Form1.resources
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.csproj.GenerateResource.cache
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.AssemblyInfoInputs.cache
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.AssemblyInfo.cs
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.csproj.CoreCompileInputs.cache
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.csproj.CopyComplete
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\ref\Plex work 3.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.pdb
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex work 3.genruntimeconfig.cache
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\ExcelDataReader.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\LinqToSqlRetry.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jjo\source\repos\Plex work 3\Plex work 3\obj\Debug\net5.0-windows\Plex_work_3.Feed.resources
